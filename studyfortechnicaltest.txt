@@ -2,3 +2,5 @@ studyfortechnicaltest
 - belajar git dan github
 - belajar bikin repo
 - belajar html dan css
+- belajar javascript
+- belajar MySQL
